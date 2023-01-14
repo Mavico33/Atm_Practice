@@ -1,6 +1,6 @@
 package core;
 
-public class login {
+public class Login {
 
     // username
     // password
